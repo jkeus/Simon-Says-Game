@@ -50,7 +50,7 @@ https://htmlcolorcodes.com/color-chart/
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/0cd36919fd554cf59ce77533fb7bab4f)
 
 
 ## License
