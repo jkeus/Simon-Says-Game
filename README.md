@@ -5,11 +5,11 @@ Codepath prework project
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Jackson**
 
-Time spent: **#** hours spent in total
+Time spent: **7** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/magic-octagonal-butterkase)
 
 ## Required Functionality
 
@@ -59,7 +59,7 @@ https://htmlcolorcodes.com/color-chart/
     My main first about web development is what other langauges can we use to create web apps. I would like to be able to make some webapps using some of the code I made in my cs class. However that code is in Java. My second and last question is how do principles in web application apply to mobile application. To be more specific I mean apps from a app store and not a webpage on a mobile device.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-    I have two things that I would do. First is try to work on some more of the optional features. I am interested in the timer and button swap feature. My knowledge in the logic part(javascript) was good enough to do this. But my knowledge in the design part(css, HTML) was lacking. I was unsure how to emplement these features from my script. As such they were abonded. If I had more time I would want to study more css and html in order to bridge the design and the logic so I can implement these features. The second thing I would do is give it a theme and improve the UI. I was going to chose music. I would do things like have the buttons playback chords form differnet indturments. Also change some of the design elements so that they fit better on a page and had good flow.
+    I have two things that I would do. First is try to work on some more of the optional features. I am interested in the timer and button swap feature. My knowledge in the logic part(javascript) was good enough to do this. But my knowledge in the design part(css, HTML) was lacking. I was unsure how to emplement these features from my script. After a couple of hours of no real progress they were abonded. If I had more time I would want to study more css and html in order to bridge the design and the logic so I can implement these features. The second thing I would do is give it a theme and improve the UI. I was going to chose music. I would do things like have the buttons playback chords form differnet indturments. Also change some of the design elements so that they fit better on a page and had good flow.  
 
 
 
